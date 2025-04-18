@@ -20471,10 +20471,6 @@ html.hide-aside .layout > div:first-child {
   }
 }
 
-.subtitle {
-  color: #ff6a00 !important; /* 橙色，你可以换成其他颜色代码 */
-}
-
 #aside-content .card-widget#card-wechat {
   background: #57bd6a;
   display: flex;
